@@ -28,7 +28,7 @@ export default function Page() {
   }, []);
 
   return (
-    <main className="font-sans bg-[#010101] text-white scroll-smooth">
+    <main className="font-sans bg-[#FFF] text-white scroll-smooth">
       <Header />
       <Hero />
       <WhoWeAre />
